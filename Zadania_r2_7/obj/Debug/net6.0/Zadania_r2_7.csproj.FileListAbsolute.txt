@@ -1,0 +1,14 @@
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\Zadania_r2_7\bin\Debug\net6.0\Zadania_r2_7.exe
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\Zadania_r2_7\bin\Debug\net6.0\Zadania_r2_7.deps.json
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\Zadania_r2_7\bin\Debug\net6.0\Zadania_r2_7.runtimeconfig.json
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\Zadania_r2_7\bin\Debug\net6.0\Zadania_r2_7.dll
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\Zadania_r2_7\bin\Debug\net6.0\Zadania_r2_7.pdb
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\Zadania_r2_7\obj\Debug\net6.0\Zadania_r2_7.GeneratedMSBuildEditorConfig.editorconfig
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\Zadania_r2_7\obj\Debug\net6.0\Zadania_r2_7.AssemblyInfoInputs.cache
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\Zadania_r2_7\obj\Debug\net6.0\Zadania_r2_7.AssemblyInfo.cs
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\Zadania_r2_7\obj\Debug\net6.0\Zadania_r2_7.csproj.CoreCompileInputs.cache
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\Zadania_r2_7\obj\Debug\net6.0\Zadania_r2_7.dll
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\Zadania_r2_7\obj\Debug\net6.0\refint\Zadania_r2_7.dll
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\Zadania_r2_7\obj\Debug\net6.0\Zadania_r2_7.pdb
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\Zadania_r2_7\obj\Debug\net6.0\Zadania_r2_7.genruntimeconfig.cache
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\Zadania_r2_7\obj\Debug\net6.0\ref\Zadania_r2_7.dll
