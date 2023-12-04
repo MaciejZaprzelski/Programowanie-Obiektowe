@@ -1,0 +1,14 @@
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\ListaCwiczen2\bin\Debug\net8.0\ListaCwiczen2.exe
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\ListaCwiczen2\bin\Debug\net8.0\ListaCwiczen2.deps.json
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\ListaCwiczen2\bin\Debug\net8.0\ListaCwiczen2.runtimeconfig.json
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\ListaCwiczen2\bin\Debug\net8.0\ListaCwiczen2.dll
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\ListaCwiczen2\bin\Debug\net8.0\ListaCwiczen2.pdb
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\ListaCwiczen2\obj\Debug\net8.0\ListaCwiczen2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\ListaCwiczen2\obj\Debug\net8.0\ListaCwiczen2.AssemblyInfoInputs.cache
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\ListaCwiczen2\obj\Debug\net8.0\ListaCwiczen2.AssemblyInfo.cs
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\ListaCwiczen2\obj\Debug\net8.0\ListaCwiczen2.csproj.CoreCompileInputs.cache
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\ListaCwiczen2\obj\Debug\net8.0\ListaCwiczen2.dll
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\ListaCwiczen2\obj\Debug\net8.0\refint\ListaCwiczen2.dll
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\ListaCwiczen2\obj\Debug\net8.0\ListaCwiczen2.pdb
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\ListaCwiczen2\obj\Debug\net8.0\ListaCwiczen2.genruntimeconfig.cache
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\ListaCwiczen2\obj\Debug\net8.0\ref\ListaCwiczen2.dll
