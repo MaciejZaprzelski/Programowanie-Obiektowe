@@ -1,0 +1,14 @@
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\abstractStorm\bin\Debug\net8.0\abstractStorm.exe
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\abstractStorm\bin\Debug\net8.0\abstractStorm.deps.json
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\abstractStorm\bin\Debug\net8.0\abstractStorm.runtimeconfig.json
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\abstractStorm\bin\Debug\net8.0\abstractStorm.dll
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\abstractStorm\bin\Debug\net8.0\abstractStorm.pdb
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\abstractStorm\obj\Debug\net8.0\abstractStorm.GeneratedMSBuildEditorConfig.editorconfig
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\abstractStorm\obj\Debug\net8.0\abstractStorm.AssemblyInfoInputs.cache
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\abstractStorm\obj\Debug\net8.0\abstractStorm.AssemblyInfo.cs
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\abstractStorm\obj\Debug\net8.0\abstractStorm.csproj.CoreCompileInputs.cache
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\abstractStorm\obj\Debug\net8.0\abstractStorm.dll
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\abstractStorm\obj\Debug\net8.0\refint\abstractStorm.dll
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\abstractStorm\obj\Debug\net8.0\abstractStorm.pdb
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\abstractStorm\obj\Debug\net8.0\abstractStorm.genruntimeconfig.cache
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\abstractStorm\obj\Debug\net8.0\ref\abstractStorm.dll
