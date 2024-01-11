@@ -1,0 +1,14 @@
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\ZadaniaLista231216\bin\Debug\net8.0\ZadaniaLista231216.exe
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\ZadaniaLista231216\bin\Debug\net8.0\ZadaniaLista231216.deps.json
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\ZadaniaLista231216\bin\Debug\net8.0\ZadaniaLista231216.runtimeconfig.json
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\ZadaniaLista231216\bin\Debug\net8.0\ZadaniaLista231216.dll
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\ZadaniaLista231216\bin\Debug\net8.0\ZadaniaLista231216.pdb
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\ZadaniaLista231216\obj\Debug\net8.0\ZadaniaLista231216.GeneratedMSBuildEditorConfig.editorconfig
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\ZadaniaLista231216\obj\Debug\net8.0\ZadaniaLista231216.AssemblyInfoInputs.cache
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\ZadaniaLista231216\obj\Debug\net8.0\ZadaniaLista231216.AssemblyInfo.cs
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\ZadaniaLista231216\obj\Debug\net8.0\ZadaniaLista231216.csproj.CoreCompileInputs.cache
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\ZadaniaLista231216\obj\Debug\net8.0\ZadaniaLista231216.dll
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\ZadaniaLista231216\obj\Debug\net8.0\refint\ZadaniaLista231216.dll
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\ZadaniaLista231216\obj\Debug\net8.0\ZadaniaLista231216.pdb
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\ZadaniaLista231216\obj\Debug\net8.0\ZadaniaLista231216.genruntimeconfig.cache
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\ZadaniaLista231216\obj\Debug\net8.0\ref\ZadaniaLista231216.dll
