@@ -1,0 +1,14 @@
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\Osoby\bin\Debug\net8.0\Osoby.exe
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\Osoby\bin\Debug\net8.0\Osoby.deps.json
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\Osoby\bin\Debug\net8.0\Osoby.runtimeconfig.json
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\Osoby\bin\Debug\net8.0\Osoby.dll
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\Osoby\bin\Debug\net8.0\Osoby.pdb
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\Osoby\obj\Debug\net8.0\Osoby.GeneratedMSBuildEditorConfig.editorconfig
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\Osoby\obj\Debug\net8.0\Osoby.AssemblyInfoInputs.cache
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\Osoby\obj\Debug\net8.0\Osoby.AssemblyInfo.cs
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\Osoby\obj\Debug\net8.0\Osoby.csproj.CoreCompileInputs.cache
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\Osoby\obj\Debug\net8.0\Osoby.dll
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\Osoby\obj\Debug\net8.0\refint\Osoby.dll
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\Osoby\obj\Debug\net8.0\Osoby.pdb
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\Osoby\obj\Debug\net8.0\Osoby.genruntimeconfig.cache
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\Osoby\obj\Debug\net8.0\ref\Osoby.dll

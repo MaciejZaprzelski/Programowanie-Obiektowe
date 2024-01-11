@@ -1,0 +1,14 @@
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\Figury2\bin\Debug\net8.0\Figury2.exe
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\Figury2\bin\Debug\net8.0\Figury2.deps.json
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\Figury2\bin\Debug\net8.0\Figury2.runtimeconfig.json
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\Figury2\bin\Debug\net8.0\Figury2.dll
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\Figury2\bin\Debug\net8.0\Figury2.pdb
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\Figury2\obj\Debug\net8.0\Figury2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\Figury2\obj\Debug\net8.0\Figury2.AssemblyInfoInputs.cache
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\Figury2\obj\Debug\net8.0\Figury2.AssemblyInfo.cs
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\Figury2\obj\Debug\net8.0\Figury2.csproj.CoreCompileInputs.cache
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\Figury2\obj\Debug\net8.0\Figury2.dll
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\Figury2\obj\Debug\net8.0\refint\Figury2.dll
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\Figury2\obj\Debug\net8.0\Figury2.pdb
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\Figury2\obj\Debug\net8.0\Figury2.genruntimeconfig.cache
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\Figury2\obj\Debug\net8.0\ref\Figury2.dll
