@@ -1,0 +1,14 @@
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\nowy projekt 231216\bin\Debug\net8.0\nowy projekt 231216.exe
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\nowy projekt 231216\bin\Debug\net8.0\nowy projekt 231216.deps.json
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\nowy projekt 231216\bin\Debug\net8.0\nowy projekt 231216.runtimeconfig.json
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\nowy projekt 231216\bin\Debug\net8.0\nowy projekt 231216.dll
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\nowy projekt 231216\bin\Debug\net8.0\nowy projekt 231216.pdb
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\nowy projekt 231216\obj\Debug\net8.0\nowy projekt 231216.GeneratedMSBuildEditorConfig.editorconfig
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\nowy projekt 231216\obj\Debug\net8.0\nowy projekt 231216.AssemblyInfoInputs.cache
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\nowy projekt 231216\obj\Debug\net8.0\nowy projekt 231216.AssemblyInfo.cs
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\nowy projekt 231216\obj\Debug\net8.0\nowy projekt 231216.csproj.CoreCompileInputs.cache
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\nowy projekt 231216\obj\Debug\net8.0\nowy projekt 231216.dll
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\nowy projekt 231216\obj\Debug\net8.0\refint\nowy projekt 231216.dll
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\nowy projekt 231216\obj\Debug\net8.0\nowy projekt 231216.pdb
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\nowy projekt 231216\obj\Debug\net8.0\nowy projekt 231216.genruntimeconfig.cache
+E:\Informatyka\Programowanie Obiektowe\Praca Domowa\nowy projekt 231216\obj\Debug\net8.0\ref\nowy projekt 231216.dll
